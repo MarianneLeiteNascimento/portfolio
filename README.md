@@ -1,6 +1,6 @@
 # Portfólio de Projetos
 
-Bem-vindo ao meu portfólio! Aqui você encontrará meus principais projetos organizados por áreas de atuação: **Automação e IoT**, **Desenvolvimento Mobile** e **Design / UX/UI**. Todos os repositórios possuem README explicativo, tecnologias utilizadas e prints ou demonstrações.
+Bem-vindo ao meu portfólio! Aqui você encontrará meus principais projetos organizados por áreas de atuação: **Automação e IoT**, **Desenvolvimento Multiplataforma** e **Design / UX/UI**. Todos os repositórios possuem README explicativo, tecnologias utilizadas e prints ou demonstrações.
 
 ---
 
@@ -13,6 +13,15 @@ Projetos focados em experiência do usuário, wireframes e design system.
 
 ---
 
+## Desenvolvimento / Flutter / Dart
+
+Apps desenvolvidos utilizando Flutter
+
+- [Aplicativo para identificar CEPs](https://github.com/MarianneLeiteNascimento/identificar_cep.git)
+- [Aplicativo para classificar bandeiras de cartões](https://github.com/MarianneLeiteNascimento/identificador_de_bandeiras_de_cartao.git)
+
+---
+
 ## Sobre mim
 
-Sou uma desenvolvedora mobile em formação, apaixonada por tecnologia e inovação. Estudo Flutter, Iot e UX/UI. 
+Sou uma desenvolvedora Multiplataforma em formação, apaixonada por tecnologia e inovação. Estudo Flutter, Iot e UX/UI. 
